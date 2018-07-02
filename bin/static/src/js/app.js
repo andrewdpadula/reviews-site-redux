@@ -4,8 +4,8 @@ hyperlinks.forEach(function(elem){
 	elem.addEventListener('mouseout', mouseOut);
 })
 function mouseOver(){
-	this.style.fontSize = '24px';
+	this.style.fontSize = '26px';
 }
 function mouseOut(){
-	this.style.fontSize = '16px';
+	this.style.fontSize = '22px';
 }
