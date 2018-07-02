@@ -1,7 +1,7 @@
 describe("MouseOver increases text size of hyperlinks", function(){
-	var a;
+	var hyperlinks;
 	it("increases text size of hyperlinks on mouseover listener", function(){
-		a=true;
-		expect(a).toBe(true);
+		hyperlinks=true;
+		expect(hyperlinks).toBe(true);
 	});
 });
